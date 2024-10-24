@@ -1,6 +1,6 @@
 # Hi there, I'm Ndamulelo Mulaudzi! 👋
 
-I'm a **Full Stack Developer** and a **Computer Science** student at the University of South Africa. I am passionate about building dynamic, user-focused web applications and continuously growing my skills in full-stack development.
+I'm a **Full Stack Developer** and a **Computer Science** student at the University of South Africa. I am passionate about building dynamic, user-focused web applications and continuously growing my skills in full-stack development. I also have experience in **IT Support**, ensuring smooth technical operations for users and systems.
 
 ### 🔧 Skills & Tools
 
@@ -9,6 +9,7 @@ I'm a **Full Stack Developer** and a **Computer Science** student at the Univers
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
 - **Backend**:  
@@ -19,6 +20,14 @@ I'm a **Full Stack Developer** and a **Computer Science** student at the Univers
 - **Databases**:  
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+- **Testing**:  
+  ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+
+- **IT Support**:  
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+  ![Network Support](https://img.shields.io/badge/Networking-000000?style=flat&logo=cisco&logoColor=white)
 
 - **Other Technologies**:  
   ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
