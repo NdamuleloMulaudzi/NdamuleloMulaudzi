@@ -39,11 +39,10 @@ I'm a **Full Stack Developer** and a **Computer Science** student at the Univers
   ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 
 ### 🌱 Currently Learning
-- Advanced Node.js and backend development
+- Advanced Node.js and Express development
 - Exploring scalable cloud solutions
 
 ### 🛠️ Projects
-- **[DynaTask](https://github.com/yourusername/dynatask)**: A dynamic task management app that allows users to create, edit, prioritize, and manage projects and tasks with persistent local storage.
 - **GiftEng Aerial Solutions**: Developing a website that provides drone services and mentorship opportunities in South Africa.
 - **ttNaturals**: A hair care eCommerce platform with user authentication, a shopping cart system, and payment integrations.
 
@@ -53,7 +52,7 @@ I'm a **Full Stack Developer** and a **Computer Science** student at the Univers
 - Participating in coding quizzes and challenges
 
 ### 📫 Get in touch!
-- **Email**: [yourname@example.com](mailto:yourname@example.com)
-- **LinkedIn**: [linkedin.com/in/ndamulelo-mulaudzi](https://linkedin.com/in/yourprofile)
+- **Email**: [ndamulel.mulaudzi@gmailcom](mailto:ndamulel.mulaudzi@gmailcom)
+- **LinkedIn**: [linkedin.com/in/ndamulelo-mulaudzi](https://www.linkedin.com/in/ndamumulaudzi/)
 
 Thanks for stopping by! 😄
