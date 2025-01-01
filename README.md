@@ -1,6 +1,6 @@
 # Hi there, I'm Ndamulelo Mulaudzi! 👋
 
-I'm a **Full Stack Developer** and a **Computer Science** student at the University of South Africa, passionate about building dynamic web applications and continually learning new technologies.
+I'm a **Full Stack Developer** and a **Computer Science** student at the University of South Africa, passionate about building web applications and continually learning new technologies.
 
 ### 🔧 Skills
 
@@ -24,12 +24,7 @@ I'm a **Full Stack Developer** and a **Computer Science** student at the Univers
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-### 🛠️ Projects
-- **GiftEng Aerial Solutions**: Drone services and mentorship platform.
-- **ttNaturals**: Hair care eCommerce with user authentication and payments.
-
 ### 📫 Get in touch!
+
 - **Email**: [ndamulel.mulaudzi@gmailcom](mailto:ndamulel.mulaudzi@gmailcom)
 - **LinkedIn**: [linkedin.com/in/ndamulelo-mulaudzi](https://www.linkedin.com/in/ndamumulaudzi/)
-
-_I'm also enrolled in IT Support._
