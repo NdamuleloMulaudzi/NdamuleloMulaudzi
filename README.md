@@ -1,6 +1,6 @@
 # Hi there, I'm Ndamulelo Mulaudzi! 👋
 
-I'm a **Full Stack Developer** and a **Computer Science** student at the University of South Africa, passionate about building web applications and continually learning new technologies.
+I'm a **Full Stack Developer**, passionate about building web applications and continually learning new technologies.
 
 ### 🔧 Skills
 
