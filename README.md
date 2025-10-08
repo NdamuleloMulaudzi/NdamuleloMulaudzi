@@ -7,17 +7,6 @@
 
 ---
 
-<img src="https://github.com/ndamulelo/ndamulelo/assets/gradient-divider.gif" width="100%" height="3" style="background: linear-gradient(90deg, #6C63FF, #00C9FF, #6C63FF);" />
-
-###  ME ? 
-
-I’m a **Full Stack Developer** from **Pretoria, South Africa**, passionate about building applications that merge design and functionality.
-I enjoy working with **modern web technologies**, cloud computing, and crafting efficient solutions that make a difference.
-
-💡 *Currently mastering AWS integrations and advanced API architecture*
-
----
-
 <img src="https://github.com/ndamulelo/ndamulelo/assets/gradient-divider.gif" width="100%" height="3" style="background: linear-gradient(90deg, #00C9FF, #6C63FF, #00C9FF);" />
 
 ### ⚡ Tech Stack
