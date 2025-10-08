@@ -57,18 +57,7 @@ I enjoy working with **modern web technologies**, cloud computing, and crafting 
 
 ---
 
-<img src="https://github.com/ndamulelo/ndamulelo/assets/gradient-divider.gif" width="100%" height="3" style="background: linear-gradient(90deg, #6C63FF, #00C9FF, #6C63FF);" />
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ndamulelo&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ndamulelo&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ndamulelo&bg_color=0d1117&color=00C9FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-</p>
+<img src="https://github.com/ndamulelo/ndamulelo/assets/gradient-divider.gif" width="100%" height="3" style="background: linear-gradient(90deg, #6C63FF, #00C9FF, #6C63FF);" 
 
 ---
 
