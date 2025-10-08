@@ -1,86 +1,61 @@
-<!-- Profile Header -->
+# 👋 Hi, I'm Ndamulelo Mulaudzi
 
-<h1 align="center">
-  👋 Hey, I'm <span style="background: linear-gradient(90deg, #6C63FF, #00C9FF); -webkit-background-clip: text; color: transparent;">Ndamulelo Mulaudzi</span>
-</h1>
+🎯 **Full Stack Developer | Problem Solver | Lifelong Learner**
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Cloud+and+Web+Engineer;Creative+Thinker;Lifelong+Learner+🚀" alt="Typing Animation" />
-</p>
+I’m passionate about building scalable web applications, designing clean user interfaces, and writing maintainable code that brings ideas to life. I enjoy exploring new technologies, collaborating on impactful projects, and continuously improving my craft.
 
 ---
 
-<img src="https://github.com/ndamulelo/ndamulelo/assets/gradient-divider.gif" width="100%" height="3" style="background: linear-gradient(90deg, #6C63FF, #00C9FF, #6C63FF);" />
+## 🧠 Tech Stack
 
-### 🧠 About Me
+### 💻 Frontend
 
-I’m a **Full Stack Developer** from **Pretoria, South Africa**, passionate about building applications that merge design and functionality.
-I enjoy working with **modern web technologies**, cloud computing, and crafting efficient solutions that make a difference.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-2F74C0?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
 
-💡 *Currently mastering AWS integrations, advanced API architecture, and frontend optimization.*
+### ⚙️ Backend
 
----
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring-boot\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-68217A?style=for-the-badge\&logo=dotnet\&logoColor=white)
 
-<img src="https://github.com/ndamulelo/ndamulelo/assets/gradient-divider.gif" width="100%" height="3" style="background: linear-gradient(90deg, #00C9FF, #6C63FF, #00C9FF);" />
+### 🗄️ Databases
 
-### ⚡ Tech Stack
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
 
-#### 💻 Frontend
+### ☁️ Cloud & Tools
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7E017.svg?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%232F74C0.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge\&logo=react\&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge\&logo=angular\&logoColor=white)
-
-#### ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-%233C873A.svg?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge\&logo=spring-boot\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-%2368217A.svg?style=for-the-badge\&logo=dotnet\&logoColor=white)
-
-#### 🗄️ Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MSSQL](https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-
-#### ☁️ Cloud & Tools
-
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge\&logo=jest\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge\&logo=postman\&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F34F29?style=for-the-badge\&logo=git\&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge\&logo=jest\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 ---
 
-<img src="https://github.com/ndamulelo/ndamulelo/assets/gradient-divider.gif" width="100%" height="3" style="background: linear-gradient(90deg, #6C63FF, #00C9FF, #6C63FF);" 
+## 🚀 What I Do
+
+* Develop responsive and accessible front-end applications using **React** and **Angular**
+* Build RESTful APIs and microservices with **Node.js**, **Java**, and **.NET**
+* Design and maintain robust databases using **PostgreSQL** and **SQL Server**
+* Deploy and manage applications in the cloud with **AWS**
+* Collaborate in agile teams, integrating CI/CD pipelines and testing tools
 
 ---
 
-<img src="https://github.com/ndamulelo/ndamulelo/assets/gradient-divider.gif" width="100%" height="3" style="background: linear-gradient(90deg, #00C9FF, #6C63FF, #00C9FF);" />
+## 🌍 Let's Connect
 
-### 🌍 Let’s Connect
-
-<p align="center">
-  <a href="mailto:ndamulel.mulaudzi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ndamumulaudzi/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/ndamulelo">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+📧 **Email:** [ndamulel.mulaudzi@gmail.com](mailto:ndamulel.mulaudzi@gmail.com)
+💼 **LinkedIn:** [linkedin.com/in/ndamumulaudzi](https://www.linkedin.com/in/ndamumulaudzi/)
+💻 **GitHub:** [github.com/ndamulelo](https://github.com/ndamulelo)
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,12,21,24,32&section=footer"/>
-</p>
-
-⭐ *“Code isn’t just logic — it’s art, intention, and innovation.”*
+⭐ *"Code is more than syntax — it’s a bridge between creativity and logic."*
