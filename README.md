@@ -9,7 +9,7 @@
 
 <img src="https://github.com/ndamulelo/ndamulelo/assets/gradient-divider.gif" width="100%" height="3" style="background: linear-gradient(90deg, #6C63FF, #00C9FF, #6C63FF);" />
 
-### 🧠 About Me
+###  ME ? 
 
 I’m a **Full Stack Developer** from **Pretoria, South Africa**, passionate about building applications that merge design and functionality.
 I enjoy working with **modern web technologies**, cloud computing, and crafting efficient solutions that make a difference.
@@ -91,4 +91,4 @@ I enjoy working with **modern web technologies**, cloud computing, and crafting 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,12,21,24,32&section=footer"/>
 </p>
 
-⭐ *“Code isn’t just logic — it’s art, intention, and innovation.”*
+⭐ *“Code Code Code --- And Code Some More”*
