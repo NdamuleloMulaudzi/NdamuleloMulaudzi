@@ -1,8 +1,5 @@
 <!-- Profile Header -->
 
-<h1 align="center">
-  👋 Hey, I'm <span style="background: linear-gradient(90deg, #6C63FF, #00C9FF); -webkit-background-clip: text; color: transparent;">Ndamulelo Mulaudzi</span>
-</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Product+Engineer;Creative+Thinker;Lifelong+Learner+🚀" alt="Typing Animation" />
@@ -17,7 +14,7 @@
 I’m a **Full Stack Developer** from **Pretoria, South Africa**, passionate about building applications that merge design and functionality.
 I enjoy working with **modern web technologies**, cloud computing, and crafting efficient solutions that make a difference.
 
-💡 *Currently mastering AWS integrations, advanced API architecture, and frontend optimization.*
+💡 *Currently mastering AWS integrations and advanced API architecture*
 
 ---
 
